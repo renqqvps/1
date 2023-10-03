@@ -17,7 +17,9 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/CN1919810/miaouuu/mai
 elseif name == "旭脚本" then
 loadstring(game:HttpGet("https://raw.githubusercontent.com/xuxuem/xuxu5201314/main/%E6%97%AD%E6%97%AD"))();
 elseif name == "空白脚本" then
-loadstring(game:HttpGet("https://pastebin.com/raw/auYCwbhv"))();
+loadstring(game:HttpGet("https://pastebin.com/raw/nBes6WiL"))();
+elseif name == "叶脚本" then
+loadstring(game:HttpGet("https://raw.githubusercontent.com/sjbshigg/github.com/main/%E5%8F%B6%C2%B7%E8%84%9A%E6%9C%AC?token=GHSAT0AAAAAACIMMJIJCX34HH43U5DQEF2IZI4CTBQ"))();
 else
 local CoreGui = game:GetService("StarterGui")
 CoreGui:SetCore("SendNotification", {
