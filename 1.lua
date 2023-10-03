@@ -16,6 +16,8 @@ elseif name == "苗脚本" then
 loadstring(game:HttpGet("https://raw.githubusercontent.com/CN1919810/miaouuu/main/miaov4.lua"))();
 elseif name == "旭脚本" then
 loadstring(game:HttpGet("https://raw.githubusercontent.com/xuxuem/xuxu5201314/main/%E6%97%AD%E6%97%AD"))();
+elseif name == "空白脚本" then
+loadstring(game:HttpGet("https://pastebin.com/raw/auYCwbhv"))();
 else
 local CoreGui = game:GetService("StarterGui")
 CoreGui:SetCore("SendNotification", {
